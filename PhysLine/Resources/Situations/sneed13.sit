@@ -1,0 +1,230 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position 6.841421127319331 -27.55790948867798
+		-zoom 13.10720000000004
+	}
+}
+body
+{
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15706973796020.78 1525546882456.845
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 13213772065.20991 1283387717.356681
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.748679732914962 -36.24383020400998
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 272181127489.8351 -7397594191.852683
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 49938424.7891967 -1384003.617118506
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3609407708780.264 34693695592.26353
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -662184482.8510555 6338197.544095847
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.316461837897985e+017 5.161820390740272e+016
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 79184842503665.14 9469281760591.057
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.679021441736695e+017 -7872653696066452
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 122515496318307.3 -1444106896775.794
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.059740085482974e+025 3.662244824694284e+023
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.777898161705837e+021 6.717152367158097e+019
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.141786042081266e+024 -1.259124188720968e+023
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 7.595604728125282e+020 -2.309102774497354e+019
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.130164532438648e+113 2.637143759442328e+113
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.905190999741662e+109 4.834626582863393e+109
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.38157755582173e+096 -4.233341971936791e+095
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -1.169190518044636e+093 -7.756049738381335e+091
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.106535430345302e+050 1.463030314561817e+049
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.858137678080964e+046 2.679552548452833e+045
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1944460020314125
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.13764883900865e+072 3.618775757584921e+072
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 2.082722724121885e+068 6.624985008901268e+068
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position 0.2324581146240288 -38.24383020400998
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position 21.14653587341304 -36.26018762588499
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-angposition 45
+		-dragcoeff 1
+	}
+}

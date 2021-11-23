@@ -1,0 +1,65 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position 2.248299316406246 -28.17566186523429
+		-zoom 16.38400000000008
+	}
+}
+body
+{
+	physics
+	{
+		-animation 1
+		-frame 1.63890192282912
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.675770477399335 -39.90857202148422
+		-mass 50
+		-elasticity 0
+		-static 0
+		-velocity 6.344685848311256e-011 -0.06812554175748697
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.63890192282912
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.336189941406246 -37.90857202148421
+		-mass 50
+		-elasticity 0
+		-static 0
+		-velocity 0 -0.06812554175748697
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position 0.7834555664062521 -41.90857202148423
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-angposition 0
+		-dragcoeff 1
+	}
+}

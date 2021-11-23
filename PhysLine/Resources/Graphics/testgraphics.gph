@@ -1,0 +1,16 @@
+textures
+{
+	Resources/Textures/test1.png	0
+}
+
+animations
+{
+	0
+	{
+		-framecount		1
+		-frames
+		{
+			0
+		}
+	}
+}

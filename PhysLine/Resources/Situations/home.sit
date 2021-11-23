@@ -1,0 +1,80 @@
+head
+{
+	config
+	{
+		Resources\Config\menu.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position			0 0
+		-zoom				32
+	}
+}
+body
+{
+	button
+	{
+		-animation		0
+		-frame			0
+		-order			0
+		-visible		1
+		-size			100 50
+		-position		960 420
+		-world			0
+		-duration		-1
+		-command		"new"
+		-deleteonselect	0
+		-scale			1
+		-text			"NEW"
+	}
+	button
+	{
+		-animation		0
+		-frame			0
+		-order			0
+		-visible		1
+		-size			100 50
+		-position		960 500
+		-world			0
+		-duration		-1
+		-command		"copy"
+		-deleteonselect	0
+		-scale			1
+		-text			"COPY"
+	}
+	button
+	{
+		-animation		0
+		-frame			0
+		-order			0
+		-visible		1
+		-size			100 50
+		-position		960 580
+		-world			0
+		-duration		-1
+		-command		"load"
+		-deleteonselect	0
+		-scale			1
+		-text			"LOAD"
+	}
+	button
+	{
+		-animation		0
+		-frame			0
+		-order			0
+		-visible		1
+		-size			100 50
+		-position		960 660
+		-world			0
+		-duration		-1
+		-command		"quit"
+		-deleteonselect	0
+		-scale			1
+		-text			"QUIT"
+	}
+}

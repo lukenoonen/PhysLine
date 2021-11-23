@@ -1,0 +1,132 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position 4.005432128906249 -6.771087646484374
+		-zoom 16.38400000000003
+	}
+}
+body
+{
+	physics
+	{
+		-animation 1
+		-frame 0.1111119993930529
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.734723475976807e-014 -6.585786437626891
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position 18 -6
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-acceleration 0 0
+		-angposition 45
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position -18 -6
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-acceleration 0 0
+		-angposition -45
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1111119993930529
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.319885253906253 -4.585786437626891
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1111119993930529
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.502990722656253 -2.58578643762689
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1111119993930529
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.174377441406252 -0.5857864376268904
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.1111119993930529
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.296447753906252 1.41421356237311
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.734723475976807e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+}

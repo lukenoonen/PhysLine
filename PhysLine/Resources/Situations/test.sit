@@ -1,0 +1,15 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		
+	}
+}
+body
+{
+	
+}

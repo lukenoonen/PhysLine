@@ -1,0 +1,212 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position -135.5926501750946 -38.12848031520842
+		-zoom 4.294967296000007
+	}
+}
+body
+{
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -178.7957937948537 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 10000 2
+		-position 0 -60
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-acceleration 0 0
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -148.7957937944752 -44.00000000000001
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -118.7957937944752 -43.99999999999999
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 2.220446049250313e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -88.79579379447522 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 2.220446049250313e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -58.79579379447522 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 4.440892098500626e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position -28.79579379447522 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 2.220446049250313e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position 1.204206205524777 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 2.220446049250313e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position 31.20420620552478 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 1.110223024625157e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position 61.20420620552478 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity 1.110223024625157e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position 91.20420620552477 -44.00000000000001
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity -2.220446049250313e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 1.111120011665292
+		-order 1
+		-visible 1
+		-size 30 30
+		-position 121.2042062055248 -44
+		-mass 5
+		-elasticity 0
+		-static 0
+		-velocity -1.110223024625157e-016 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+}

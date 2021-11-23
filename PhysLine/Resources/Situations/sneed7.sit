@@ -1,0 +1,6212 @@
+head
+{
+	config
+	{
+		Resources\Config\default.cfg
+	}
+	graphics
+	{
+		Resources\Graphics\testgraphics.gph
+		Resources\Graphics\testgraphics2.gph
+	}
+	camera
+	{
+		-position 1.827914062340395 8.180036843921991
+		-zoom 13.10720000000016
+	}
+}
+body
+{
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.735590837714796e-015 -6.585786437626911
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position 18 -6
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-acceleration 0 0
+		-angposition 45
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 0
+		-frame 0
+		-order 1
+		-visible 1
+		-size 60 2
+		-position -18 -6
+		-mass 1
+		-elasticity 0
+		-static 1
+		-velocity 0 0
+		-acceleration 0 0
+		-angposition -45
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.319885253906253 -4.585786437626911
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.502990722656253 -2.585786437626911
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.174377441406252 -0.5857864376269113
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.387778780781446e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.296447753906252 1.414213562373089
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.7705688476562538 3.414213562373088
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.075744628906253 5.414213562373089
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.443194592945114 7.414213562373089
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.938893903907228e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.2212524414062442 9.414213562373087
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.06866455078124423 11.41421356237309
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.1449584960937442 13.41421356237309
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.1449584960937442 15.41421356237309
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.214306433183765e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.08392333984375533 17.41421356237309
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.3890991210937549 19.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.561251128379126e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.6942749023437544 21.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.775557561562891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.6942749023437544 23.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.295974604355934e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.846862792968754 25.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.642919299551295e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.846862792968754 27.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.949029909160572e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.06866455078124423 29.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.602085213965211e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.9517669677734406 31.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.561251128379126e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.7133483886718786 33.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.081668171172169e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.8325576782226596 35.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.561251128379126e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.190185546875003 37.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.647987302177967e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.309394836425784 39.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.994931997373328e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.309394836425784 41.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.647987302177967e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.428604125976565 43.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.474514954580286e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.667022705078127 45.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.688821387764051e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.905441284179689 47.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.168404344971009e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.905441284179689 49.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.949029909160572e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.786231994628908 51.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.775557561562891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.775537014007565 53.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.989863994746656e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.775537014007565 55.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.035766082959412e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.775537014007565 57.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.903127820947816e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.58927249908447 59.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.209238430557093e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.403007984161375 61.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.989863994746656e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.216743469238279 63.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.250072516143177e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.030478954315184 65.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.844214439392089 67.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.076600168545497e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.657949924468993 69.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.77048955893622e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.471685409545898 71.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.556183125752455e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.285420894622803 73.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.51534904016637e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 75.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.42861286636753e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 77.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.821459649775647e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 79.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.168404344971009e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 81.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.775557561562891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 83.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.211772431870429e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 85.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.339342691255354e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 87.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.816391647148976e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.099156379699708 89.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.033232081646077e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.657949924468993 91.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.030698080332741e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.216743469238279 93.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.946495907847236e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.216743469238279 95.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.512815038853034e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.030478954315184 97.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.295974604355934e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.216743469238279 99.41421356237308
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.732189474663471e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.775537014007565 101.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.298508605669269e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.775537014007565 103.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.42861286636753e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 105.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.602085213965211e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.057277321815482 107.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.862293735361732e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.057277321815482 109.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.125036258071589e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.766239017248146 111.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.344410693882026e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.47520071268081 113.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.806255641895632e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 115.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.071532165918825e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 117.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.474514954580286e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.47520071268081 119.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.474514954580286e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.057277321815482 121.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.691355389077387e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.057277321815482 123.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.77048955893622e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.766239017248146 125.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.604619215278547e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.893124103546136 127.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.517883041479706e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411464 129.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.474514954580286e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.020009189844128 131.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.951563910473908e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276791 133.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.298508605669269e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276791 135.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276791 137.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.599551212651875e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.020009189844128 139.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.510281037539698e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411464 141.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.382710778154774e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411464 143.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.994931997373328e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 145.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.775557561562891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.893124103546136 147.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.34187669256869e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 149.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.214306433183765e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 151.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.691355389077387e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 153.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 9.107298248878237e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 155.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.734723475976807e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 157.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 9.540979117872439e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411464 159.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.168404344971009e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 161.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.974659986866641e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.47520071268081 163.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.908195823574488e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.348315626382819 165.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.107298248878237e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950155 167.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.734723475976807e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.930392235517491 169.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.42861286636753e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950155 171.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.818925648462312e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.766239017248146 173.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.818925648462312e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.47520071268081 175.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.144186300207963e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 177.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.271756559592888e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 179.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.968179951296946e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 181.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.640385298237959e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 8.67662206292151 183.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.707971429900425e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 9.840775281190856 185.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.447762908503904e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 10.42285189032553 187.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.233456475320139e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 10.42285189032553 189.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.561251128379126e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 9.258698672056182 191.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.035766082959412e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.930392235517491 193.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.168404344971009e-019
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.766239017248146 195.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -8.456776945386935e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113473 197.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.505213034913027e-019
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.893124103546137 199.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.084202172485504e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.6020857989788 201.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.42861286636753e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.893124103546137 203.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.558717127065791e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.766239017248146 205.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.059984127722458e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.057277321815473 207.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.452830911130576e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950144 209.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.38524477946811e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.930392235517481 211.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.035766082959412e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950144 213.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.734723475976807e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411454 215.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.192622389734055e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.602085798978791 217.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.713039432527097e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.184162408113462 219.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.279358563532895e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.602085798978791 221.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.49366499671666e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.020009189844117 223.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.797241605012601e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440099 225.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.361026734705064e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170754 227.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.838075690598686e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.9276419878006017 229.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.47198095326695e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332647 231.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.059984127722458e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.5275495350360799 233.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.016616040823038e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440088 235.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.821459649775647e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.564817667007425 237.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.734723475976807e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411444 239.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.057450126409123e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411444 241.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.973247953923618e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.72897088527677 243.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.589415207398531e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.146894276142096 245.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.257674520083185e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170743 247.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.103352214621879e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332753 249.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.45029690981724e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332753 251.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.621235256101585e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.509718596935286 253.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.035766082959412e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.091795206069957 255.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.647987302177967e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.673871815204631 257.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.929879867024198e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771966 259.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.190088388420719e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.838025033473976 261.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.775557561562891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.54698672890664 263.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.168404344971009e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.673871815204631 265.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.647987302177967e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.218680292367949 267.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.155734338404329e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170743 269.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.864827736675068e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.691702753305414 271.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 9.974659986866641e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170743 273.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.951563910473908e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.0545270740986048 275.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.38524477946811e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339303 277.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.168404344971009e-019
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.42010164260865 279.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.293216556310659 281.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.149254302834635e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.584254860877994 283.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.799775606325937e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.875293165445322 285.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.255140518769849e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.546986728906632 287.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 8.890457814381136e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.218680292367941 289.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.908195823574488e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.3455653786659312 291.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.691355389077387e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.800756901502613 293.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.505213034913027e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.673871815204622 295.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.903127820947816e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.218680292367941 297.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.474514954580286e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332558 299.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.387778780781446e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.5275495350360906 301.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.973247953923618e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.564817667007445 303.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.626303258728257e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.982741057872772 305.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.686287386450715e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170763 307.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.806255641895632e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.509718596935264 309.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.691355389077387e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.67387181520461 311.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.204170427930421e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339283 313.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.071532165918825e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771947 315.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.864827736675068e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771947 317.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.190088388420719e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.54698672890662 319.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.322726650432315e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.382833510637274 321.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.589415207398531e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.3455653786659187 323.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.886511780124778e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440106 325.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.973247953923618e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.855855971574779 327.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.688821387764051e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276788 329.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.230922474006803e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276788 331.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.298508605669269e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440106 333.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.686287386450715e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.10962614417076 335.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.662069341687669e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.5275495350360853 337.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.529431079676073e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.691702753305431 339.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.548581121812447e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.855855971574777 341.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.833007687972014e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.146894276142113 343.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.136584296267955e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.437932580709449 345.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.24247051220317e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.020009189844123 347.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.199102425303749e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 7.512468844652158 349.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.646159317336142e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 8.96766036748884 351.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.982261990806649e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 7.221430540084822 353.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.697835424647082e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 7.221430540084822 355.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.014788055981214e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 7.512468844652158 357.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.741203511546502e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950149 359.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.852157730108388e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.311047494411458 361.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.405100838075995e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.020009189844122 363.4142135623731
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.654467337747661e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.639353930950151 365.414213562373
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.928051882182373e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 8.094545453786832 367.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.817097663620487e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 9.840775281190851 369.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.990570011218168e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 8.967660367488842 371.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.513521055324546e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.348315626382814 373.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 8.164042358815848e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.728970885276786 375.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.947201924318748e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.8185878396034223 377.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.632783294297951e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2365112304687502 379.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.700369425960417e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.400664448738096 381.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.112366251504909e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.146894276142114 383.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.908901840045999e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.146894276142114 385.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.83554168928535e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.146894276142114 387.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.83554168928535e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.509718596935268 389.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.03900610074426e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.546986728906623 391.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.841315708383533e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.673871815204612 393.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.136584296267955e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771948 395.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.627009275199768e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.546986728906621 397.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.215012449655276e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.546986728906621 399.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.182486384480711e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.129063338041293 401.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.976487971708465e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.29321655631064 403.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.185020385794047e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339285 405.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.285132582631078e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339285 407.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.686287386450715e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339285 409.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.282598581317743e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.546986728906621 411.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.401860820291148e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339285 413.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.152494320619482e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.129063338041294 415.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.916503843986007e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.218680292367933 417.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.634611279139776e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.800756901502606 419.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.778091562876227e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771952 421.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.591243192240356e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771952 423.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.081668171172169e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339289 425.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.157562323246154e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339283 427.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.667137344314341e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.964910119771947 429.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.046608104684268e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.67387181520461 431.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.656295322589486e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339283 433.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.962405932198763e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339283 435.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.496198998029996e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.67387181520461 437.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.658829323902822e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.67387181520461 439.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.005774019098183e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.255948424339283 441.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.105886215935215e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.382833510637274 443.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.244298497044994e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.091795206069937 445.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.3635607360184e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.382833510637274 447.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.436920886779049e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.748408079147319 449.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.840609691912022e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.87529316544531 451.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.667137344314341e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.002178251743301 453.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.729655473350135e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.382833510637274 455.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.808083626737457e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.129063338041292 457.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.517883041479706e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.166331470012647 459.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.723881454251952e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -8.203599601984001 461.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.778091562876227e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.420101642608628 463.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.421010862427522e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -2.67387181520461 465.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.322726650432315e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332556 467.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.22514845490862e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2365112304687536 469.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.155734338404329e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6366036832332556 471.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.469446951953614e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.218680292367928 473.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.75781955236954e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440113 475.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.686287386450715e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.691702753305439 477.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.550409106654271e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.273779362440113 479.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.77048955893622e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.691702753305439 481.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.420304845956011e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2365112304687544 483.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.908195823574488e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.109626144170764 485.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.745565497701662e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.8185878396034272 487.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.24683249835833e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.5275495350360908 489.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.071532165918825e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.509718596935264 491.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.788933584601082e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.838025033473955 493.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.853985714950213e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.166331470012646 495.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.974659986866641e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -7.039446383714656 497.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.084202172485504e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -7.621522992849328 499.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.396792817664476e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -7.039446383714656 501.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.252606517456513e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.166331470012646 503.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.252606517456513e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -6.748408079147318 505.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -8.456776945386935e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -7.330484688281992 507.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.550409106654271e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -8.203599601984001 509.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.496198998029996e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -7.330484688281992 511.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.64939933512099e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.092134359765957 513.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.927345865710862e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.455932240475129 515.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.301042606982605e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.819730121184298 517.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.276824562219559e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.819730121184298 519.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.529431079676073e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.455932240475129 521.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.192622389734055e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.092134359765957 523.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 9.75781955236954e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.819730121184298 525.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.073360150760649e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.183528001893468 527.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.11672823766007e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -5.547325882602639 529.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.658829323902822e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.819730121184298 531.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.797241605012601e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -3.000740717638447 533.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.843143693225358e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.909347075510937 535.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.49366499671666e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.181751314092597 537.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.897353801849633e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.09035767196508693 539.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.233456475320139e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2734402087440833 541.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.710505431213761e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.6372380894532532 543.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.778091562876227e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.728631731580763 545.4142135623729
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.875669758399923e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289933 547.4142135623728
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.3635607360184e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.820025373708273 549.4142135623727
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.252606517456513e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.547621135126613 551.4142135623725
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.306816626080789e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.911419015835784 553.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.7621815385247e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.911419015835784 555.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.282598581317743e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.547621135126613 557.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.421010862427522e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.183823254417443 559.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.087442190270352e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.820025373708273 561.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.998172015158175e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289933 563.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.217546450968612e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.728631731580763 565.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.56702514747731e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.275216896544954 567.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.380176776841438e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.547621135126614 569.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.014082039509702e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.183823254417444 571.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.382710778154774e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.820025373708273 573.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 2.612927235690066e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289934 575.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.686287386450715e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.364833850871593 577.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.480288973678469e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289934 579.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.935653886122381e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289934 581.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.783865581974411e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.001035970162423 583.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.618701254788249e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.6372380894532532 585.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.063224145507306e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.001035970162421 587.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.751339516799845e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.001035970162421 589.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.773023560249555e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2734402087440815 591.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.642919299551295e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2734402087440815 593.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.447762908503904e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.2734402087440815 595.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.111660235033398e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.4541555526742593 597.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.886511780124778e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.4541555526742593 599.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.20346441145891e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.637238089453251 601.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.37257477290143e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.092429612289934 603.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 6.613633252161577e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1.001035970162423 605.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.361026734705064e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.817953433383428 607.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 7.155734338404329e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.817953433383428 609.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 9.324138683375338e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.817953433383428 611.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.788933584601082e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.181751314092599 613.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1.355252715606881e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.545549194801769 615.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 5.963111948670274e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.052180146586863 639.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.220080452281948e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.688382265877696 637.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.61039323437673e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3.324584385168528 635.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.45029690981724e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.052180146586863 633.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.436920886779049e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.415978027296031 631.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.024924061234557e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.052180146586863 629.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.984089975648473e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.596988623750189 627.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -8.131516293641283e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.7779992202043466 625.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.336808689942018e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.3133944219231601 623.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.756407519426517e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -0.6771923026323279 621.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.806255641895632e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.0504034587860076 619.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.626303258728257e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 0.0504034587860076 617.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.155734338404329e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 6.962563192260209 641.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.42861286636753e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.143573788714367 643.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.680513367352532e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.415978027296028 645.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.86623976961809e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 4.415978027296028 647.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.155734338404329e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 5.871169550132702 649.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.09504419421036e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 7.326361072969377 651.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -9.974659986866641e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 9.145350476515221 653.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.190088388420719e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 9.50914835722439 655.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.230922474006803e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 10.23674411864273 657.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.710505431213761e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 10.6005419993519 659.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.788933584601082e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 14.70570265520585 661.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.806255641895632e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 14.70570265520585 663.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.431146867680866e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.5954796305807 665.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.864827736675068e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.5954796305807 667.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.16009632455949e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.5954796305807 669.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.361026734705064e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 671.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.276824562219559e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 673.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 3.794707603699266e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 675.4142135623724
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 4.553649124439119e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 677.4142135623723
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.963111948670274e-018
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 679.4142135623722
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.843143693225358e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 681.4142135623721
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -1.929879867024198e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 683.4142135623721
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.808083626737457e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 16.92614870445614 685.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -2.699663409488906e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 687.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.67544536472586e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 689.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -3.664603343001005e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 691.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.044074103370932e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.815925679831 693.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.334274688628682e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 16.92614870445614 695.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.290906601729262e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 697.414213562372
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -5.280064580004407e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 18.03637172908129 699.4142135623719
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.114900252818245e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 19.14659475370644 701.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.3075226425523e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 19.14659475370644 703.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -7.535205098774256e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 20.25681777833159 705.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.591949208711867e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 21.36704080295674 707.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.429318882839041e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 21.36704080295674 709.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -6.1257422745431e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 21.36704080295674 711.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.868067754459915e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 22.47726382758189 713.4142135623717
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 -4.998172015158175e-017
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 1360182071.696701 -36242972.0963873
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 49938424.7891967 -1330803.030881376
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -18316711337.33568 176797187.2786279
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -662184482.8510555 6391398.130329897
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2219064288982257 265365749950072.9
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 79184842503665.14 9469281813795.068
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 3488665347324649 -41121373653441.81
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 122515496318307.3 -1444106843575.91
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.094908703653704e+023 1.946762002512162e+021
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.777898161705837e+021 6.717152367158097e+019
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 2.261555927825496e+022 -6.875245954131815e+020
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 7.595604728125282e+020 -2.309102774497354e+019
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.234138712909671e+111 1.52786376614322e+111
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.905190999741662e+109 4.834626582863393e+109
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -4.094340872061383e+094 -2.716059612141275e+093
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -1.169190518044636e+093 -7.756049738381335e+091
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position -1.422976002800976e+048 9.882848391737862e+046
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity -3.858137678080964e+046 2.679552548452833e+045
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 8.168004217219125e+069 2.598180970754713e+070
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 2.082722724121885e+068 6.624985008901268e+068
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.59547963058069 101977.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673922
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.59547963058069 101979.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673923
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.59547963058069 101981.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673923
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 12.48525660595555 101983.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673923
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 12.48525660595555 101985.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567393
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 13.59547963058069 101987.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567393
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 14.70570265520584 101989.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567393
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 15.81592567983099 101991.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673934
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 16.92614870445614 101993.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673934
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 19.14659475370644 101995.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.295145673934
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 21.36704080295673 101997.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567394
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 23.58748685220703 101999.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567394
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 30 2
+		-position 24.69770987683218 102001.2650396485
+		-mass 1
+		-elasticity 0
+		-static 0
+		-velocity 0 1839.29514567394
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+	physics
+	{
+		-animation 1
+		-frame 0.6903876000001219
+		-order 1
+		-visible 1
+		-size 2 2
+		-position -9.532305500492555e-015 -20.58578643762692
+		-mass 1000
+		-elasticity 0
+		-static 0
+		-velocity 0 0
+		-acceleration 0 -9.810000000000001
+		-angposition 0
+		-dragcoeff 1
+	}
+}
