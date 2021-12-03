@@ -1,3 +1,2 @@
 # PhysLine
-2D Rigidbody Physics Simulator
-Not currently working on it.
+2D Rigidbody Physics Simulator, not currently working on it.
